@@ -29,7 +29,7 @@ limitations under the License.
 * With Eclipse/idea, import generated project/module and build as usual.
 
 Hold shift and Right Click in the Launcher Directory and open a command prompt
-Type gradelw build
+Type gradlew build
 
 When that is complete: 
 type gradlew launch4j
